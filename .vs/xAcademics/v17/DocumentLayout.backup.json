@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\Downloads\\swe316-hw2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\foldertraverserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\foldertraverserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\ifilesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\ifilesystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\ivisualizationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\ivisualizationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\treevisualizationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\treevisualizationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\barchartvisualizationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\barchartvisualizationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|c:\\users\\maria\\downloads\\swe316-hw2\\xacademics\\foldertraverserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C96D1E-26A6-4E98-929E-FA0325A325C7}|xAcademics\\xAcademics.csproj|solutionrelative:xacademics\\foldertraverserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\FileItem.cs",
+              "RelativeDocumentMoniker": "xAcademics\\FileItem.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\FileItem.cs",
+              "RelativeToolTip": "xAcademics\\FileItem.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:20:08.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVisualizationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\IVisualizationStrategy.cs",
+              "RelativeDocumentMoniker": "xAcademics\\IVisualizationStrategy.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\IVisualizationStrategy.cs",
+              "RelativeToolTip": "xAcademics\\IVisualizationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:22:59.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileSystemItem.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\IFileSystemItem.cs",
+              "RelativeDocumentMoniker": "xAcademics\\IFileSystemItem.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\IFileSystemItem.cs",
+              "RelativeToolTip": "xAcademics\\IFileSystemItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:14:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\Folder.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Folder.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\Folder.cs",
+              "RelativeToolTip": "xAcademics\\Folder.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:16:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FolderTraverserForm.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\FolderTraverserForm.cs",
+              "RelativeDocumentMoniker": "xAcademics\\FolderTraverserForm.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\FolderTraverserForm.cs",
+              "RelativeToolTip": "xAcademics\\FolderTraverserForm.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAAAJoBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:53:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreeVisualizationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\TreeVisualizationStrategy.cs",
+              "RelativeDocumentMoniker": "xAcademics\\TreeVisualizationStrategy.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\TreeVisualizationStrategy.cs",
+              "RelativeToolTip": "xAcademics\\TreeVisualizationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:25:36.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarChartVisualizationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\BarChartVisualizationStrategy.cs",
+              "RelativeDocumentMoniker": "xAcademics\\BarChartVisualizationStrategy.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\BarChartVisualizationStrategy.cs",
+              "RelativeToolTip": "xAcademics\\BarChartVisualizationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:27:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\Program.cs",
+              "RelativeDocumentMoniker": "xAcademics\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\Program.cs",
+              "RelativeToolTip": "xAcademics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:25:38.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FolderTraverserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\FolderTraverserForm.Designer.cs",
+              "RelativeDocumentMoniker": "xAcademics\\FolderTraverserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\swe316-hw2\\xAcademics\\FolderTraverserForm.Designer.cs",
+              "RelativeToolTip": "xAcademics\\FolderTraverserForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:25:45.267Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 753,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 411,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
